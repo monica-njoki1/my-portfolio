@@ -1,0 +1,31 @@
+body {
+    background-color: black;
+    color: lightblue;
+    margin: 0%;
+    padding-left: 5%;
+    padding-right: 5%;
+    
+}
+#golden {
+    color: goldenrod;
+    align-items: center;
+}
+nav {
+    display: flex;
+    justify-content: right;
+    gap: 5%;
+    color: goldenrod;
+    font-size: large;
+}
+
+.back-img {
+width: 30%;
+height: 10%;
+}
+nav :hover {
+    color: goldenrod;
+
+}
+#home {
+display: flex; 
+}
